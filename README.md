@@ -22,7 +22,7 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/chathuofc/chathu-md"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/lakaofc/laka-md"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -32,15 +32,15 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/chathuofc/chathu-md/fork"><img title="CHATHU-MD" src="https://img.shields.io/badge/FORK-CHATHU,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/lakaofc/laka-md/fork"><img title="LAKA-MD" src="https://img.shields.io/badge/FORK-LAKA,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
-You will need a session ID to run the CHATHU=MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
+You will need a session ID to run the LAKA=MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
 
 > **Get Pair Code (Session ID)**
 
-<a href='https://chathumdweb-856c6c7aa5d7.herokuapp.com' target="_blank">
+<a href='https://lakamdweb-856c6c7aa5d7.herokuapp.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
