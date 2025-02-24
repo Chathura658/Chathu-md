@@ -4,7 +4,7 @@
 <a><img src='https://i.ibb.co/wZRg88CZ/8771.jpg'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/chathuofc"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Lakaofc-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/lakaofc"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Lakaofc-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -34,8 +34,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
   <a href="https://github.com/lakaofc/laka-md/fork"><img title="LAKA-MD" src="https://img.shields.io/badge/FORK-LAKA,MD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
-### 2. Get Session ID 
-
+### 2. Get Session 
 You will need a session ID to run the LAKA=MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
 
 > **Get Pair Code (Session ID)**
